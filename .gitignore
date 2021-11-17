@@ -1,0 +1,12 @@
+db.sqlit3
+geckodriver.log
+venv
+__pycache__
+*.pyc
+/.idea/vcs.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/django_tdd.iml
+/.idea/sonarlint/issuestore/index.pb
+/.idea/misc.xml
+/.idea/.gitignore
